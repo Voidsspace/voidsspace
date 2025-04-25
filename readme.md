@@ -20,7 +20,7 @@
 <br>
 <details>
   <summary><b> 🚀 Tecnologias e Ferramentas e Certificação </b></summary>
-  <p align="center" font-size="30px"> Tecnologias </p>
+  <p align="center" font-size="50px"> <b>Tecnologias</b> </p>
   <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
