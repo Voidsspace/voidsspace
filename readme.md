@@ -17,7 +17,10 @@
   <p align="center">🎯 Meu objetivo profissional é realizar uma transição de carreira para a área de Dados!</p>
   <br>
 </details>
-
+<br>
+<details>
+  <summary> 🚀 Tecnologias e Ferramentas e Certificação </summary>
+</details>
 <br>
 <br>
 
