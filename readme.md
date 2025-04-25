@@ -8,11 +8,14 @@
 </h1>
 
 <details>
-  <summary>Sobre mim</summary>
-  <h2>Formação</h2>
-  <p align="center"> Formado em Analise e Desenvolvimento de Sistema, cursando pos graduação em engenharia de dados </p>
+  <summary><b>👨‍💻 Sobre mim</b></summary>
   <br>
-  <p align="center"> Meu objetivo profissicional atual e realizar trazição de carreira para área de dados !</p>
+  <p align="center">📚 Graduado em Análise e Desenvolvimento de Sistemas, atualmente cursando pós-graduação em Engenharia de Dados.</p>
+  <br>
+  <p align="center">⚙️ Atualmente, estou focado em automação de ETLs, infraestrutura como código (IaC), Python voltado para dados e SQL.</p>
+  <br>
+  <p align="center">🎯 Meu objetivo profissional é realizar uma transição de carreira para a área de Dados!</p>
+  <br>
 </details>
 
    
