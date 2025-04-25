@@ -14,7 +14,7 @@
   <br>
   <p align="center">⚙️ Atualmente, estou focado em automação de ETLs, infraestrutura como código (IaC), Python voltado para dados e SQL.</p>
   <br>
-  <p align="center">🎯 Meu objetivo profissional é realizar uma transição de carreira para a área de Dados!</p>
+  <p align="center">🎯 Meu objetivo profissional é fazer a transição de carreira para a área de Dados!</p>
   <br>
 </details>
 <br>
