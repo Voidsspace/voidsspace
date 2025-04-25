@@ -12,7 +12,7 @@
   <br>
   <p align="center">📚 Graduado em Análise e Desenvolvimento de Sistemas, atualmente cursando pós-graduação em Engenharia de Dados.</p>
   <br>
-  <p align="center">⚙️Atualmente, meu foco está na automação de processos ETL, implementação de infraestrutura como código (IaC), e no uso de Python e SQL para soluções orientadas a dados.</p>
+  <p align="center">⚙️Meu foco atual é automação de processos ETL, implementação de infraestrutura como código (IaC), e no uso de Python e SQL para soluções orientadas a dados.</p>
   <br>
   <p align="center">🎯 Meu objetivo profissional é fazer a transição de carreira para a área de Dados!</p>
   <br>
