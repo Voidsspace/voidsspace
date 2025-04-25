@@ -7,7 +7,13 @@
   Olá, eu sou o Breno Willian ✌️
 </h1>
 
-<p> Bem vindo, ao meu perfil ! </p>
+<details>
+  <summary>Sobre mim</summary>
+  <h2>Formação</h2>
+  <p align="center"> Formado em Analise e Desenvolvimento de Sistema, cursando pos graduação em engenharia de dados </p>
+  <br>
+  <p align="center"> Meu objetivo profissicional atual e realizar trazição de carreira para área de dados !</p>
+</details>
 
    
 
