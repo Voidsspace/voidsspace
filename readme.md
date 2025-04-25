@@ -20,7 +20,8 @@
 <br>
 <details>
   <summary><b> 🚀 Tecnologias e Ferramentas e Certificação </b></summary>
-  <p align="center"> <b>Tecnologias</b> </p>
+  <h2 align="center"> Tecnologias </h2>
+  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
@@ -32,8 +33,11 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </div>
-  <h2 align="center"> Ferramentas </h2>
+  <br>
   <h2 align="center"> Certificação </h2>
+  <div align="center">
+    <img src="https://www.credly.com/badges/cc6d3fd3-03aa-46cb-9cc1-36934d0720ea/public_url">
+  </div>
 </details>
 <br>
 <br>
