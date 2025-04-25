@@ -46,7 +46,7 @@
 <details>
   <summary><b> 📬 Contato </b></summary>
   <br>
-  <h2> Linkedin </h2>
+  <h2 align="center"> Linkedin </h2>
   <br>
   <div align="center">
   <a href="https://www.linkedin.com/in/brenowillian/" target="_blank">
