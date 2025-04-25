@@ -12,7 +12,7 @@
   <br>
   <p align="center">📚 Graduado em Análise e Desenvolvimento de Sistemas, atualmente cursando pós-graduação em Engenharia de Dados.</p>
   <br>
-  <p align="center">⚙️ Atualmente, estou focado em automação de ETLs, infraestrutura como código (IaC), Python voltado para dados e SQL.</p>
+  <p align="center">⚙️Atualmente, meu foco está na automação de processos ETL, implementação de infraestrutura como código (IaC), e no uso de Python e SQL para soluções orientadas a dados.</p>
   <br>
   <p align="center">🎯 Meu objetivo profissional é fazer a transição de carreira para a área de Dados!</p>
   <br>
@@ -45,6 +45,8 @@
 <br>
 <details>
   <summary><b> 📬 Contato </b></summary>
+  <br>
+  <h2> Linkedin </h2>
   <br>
   <div align="center">
   <a href="https://www.linkedin.com/in/brenowillian/" target="_blank">
