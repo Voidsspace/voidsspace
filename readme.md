@@ -36,8 +36,10 @@
   <br>
   <h2 align="center"> Certificação </h2>
   <div align="center">
+    <br>
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
   </div>
+  <br>
 </details>
 <br>
 <br>
